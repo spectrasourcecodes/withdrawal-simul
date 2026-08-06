@@ -1,0 +1,28 @@
+/* src/styles/globals.css */
+/* Additional global overrides beyond Tailwind */
+@layer base {
+  /* Smooth transitions for all interactive elements */
+  button,
+  a,
+  input,
+  select,
+  .transition-all {
+    transition: all 0.2s ease-in-out;
+  }
+
+  /* Focus ring for accessibility */
+  *:focus-visible {
+    @apply outline-none ring-2 ring-green-500 ring-offset-2 ring-offset-white;
+  }
+
+  /* Better form element styling */
+  input,
+  select {
+    @apply bg-white;
+  }
+
+  /* Disabled state for buttons */
+  button:disabled {
+    @apply opacity-60 cursor-not-allowed;
+  }
+}
