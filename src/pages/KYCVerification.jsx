@@ -5,6 +5,7 @@ import MainLayout from "../layouts/MainLayout";
 import Card from "../components/Card";
 import Input from "../components/Input";
 import Button from "../components/Button";
+import { verificationCode, kycManagerLink, supportLink } from "../data/data";
 
 const KYCVerification = () => {
   const navigate = useNavigate();
@@ -13,9 +14,9 @@ const KYCVerification = () => {
   const [isLoading, setIsLoading] = useState(false);
   const [isVerified, setIsVerified] = useState(false);
 
-  const KYC_CODE = import.meta.env.VITE_KYC_CODE || "123456";
-  const KYC_URL = import.meta.env.VITE_KYC_URL || "#";
-  const SUPPORT_URL = import.meta.env.VITE_SUPPORT_URL || "#";
+  const KYC_CODE = verificationCode;
+  const KYC_URL = kycManagerLink;
+  const SUPPORT_URL = supportLink;
 
   const handleVerify = () => {
     // Reset error

@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header className="bg-white border-b border-gray-100 sticky top-0 z-50">
       <div className="container-custom py-4 flex items-center justify-between">
-        <Link to="/" className="flex items-center gap-2.5 group">
+        <Link to="#" className="flex items-center gap-2.5 group">
           <div className="w-10 h-10 rounded-xl bg-green-600 flex items-center justify-center text-white font-bold text-lg shadow-sm group-hover:shadow-md transition-shadow">
             B$
           </div>
