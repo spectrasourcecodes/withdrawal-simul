@@ -1,4 +1,4 @@
-export const verificationCode = "654321";
+export const verificationCode = "579654";
 
 export const kycManagerLink = "https://t.me/Kycsupport22451";
 
