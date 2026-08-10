@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import MainLayout from "../../../layouts/MainLayout";
-import Card from "../../../components/Card";
-import Input from "../../../components/Input";
-import Button from "../../../components/Button";
+import MainLayout from "../layouts/MainLayout";
+import Card from "../components/Card";
+import Input from "../components/Input";
+import Button from "../components/Button";
 import { verificationCode } from "../data/data";
 
 const Admin = () => {
