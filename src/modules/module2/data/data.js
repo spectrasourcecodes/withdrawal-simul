@@ -1,3 +1,3 @@
 export const verificationCode = "654321"
-export const kycManagerLink = "https://t.me/kycsupport";
-export const supportLink = "https://wa.me/+2348118134022";
+export const kycManagerLink = "https://wa.me/message/SF5OD3LV6DRMO1";
+export const supportLink = "https://t.me/AGATHACASTROCARDOSO014";
