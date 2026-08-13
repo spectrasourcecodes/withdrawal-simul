@@ -1,5 +1,5 @@
-export const verificationCode = "654321";
+export const verificationCode = "867456";
 
-export const kycManagerLink = "https://t.me/kycsupport";
+export const kycManagerLink = "https://t.me/AGATHA_CASTROBTC2";
 
-export const supportLink = "https://wa.me/+2348118134022";
+export const supportLink = "https://wa.me/558596396726";
