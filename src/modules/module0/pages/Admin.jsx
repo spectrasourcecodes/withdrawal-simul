@@ -187,7 +187,7 @@ const Admin = () => {
           <Button
             variant="secondary"
             size="sm"
-            onClick={() => (window.location.href = "/module1")}
+            onClick={() => (window.location.href = "/module0")}
           >
             ← Voltar ao site
           </Button>
