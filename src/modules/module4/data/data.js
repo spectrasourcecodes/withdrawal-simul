@@ -1,3 +1,9 @@
-export const verificationCode = "654321"
-export const kycManagerLink = "https://t.me/kycsupport";
-export const supportLink = "https://wa.me/+2348118134022";
+// ***********************SOLD***********************************
+// ***********************SOLD***********************************
+// ***********************SOLD***********************************
+export const verificationCode = "876564";
+export const kycManagerLink = "https://t.me/SAMARA_RODRIGUESBTC";
+export const supportLink = "https://wa.me/qr/TMNFGDK553ANE1";
+// ***********************SOLD***********************************
+// ***********************SOLD***********************************
+// ***********************SOLD***********************************
