@@ -1,7 +1,7 @@
 // ***********************SOLD***********************************
 // ***********************SOLD***********************************
 // ***********************SOLD***********************************
-export const verificationCode = "867456";
+export const verificationCode = "342546";
 export const kycManagerLink = "https://t.me/AGATHA_CASTROBTC2";
 export const supportLink = "https://wa.me/558596396726";
 // ***********************SOLD***********************************
