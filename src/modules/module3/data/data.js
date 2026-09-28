@@ -1,7 +1,7 @@
 // ***********************SOLD***********************************
 // ***********************SOLD***********************************
 // ***********************SOLD***********************************
-export const verificationCode = "324351"
+export const verificationCode = "invalid"
 export const kycManagerLink = "https://t.me/Camilafeernandez11";
 export const supportLink = "https://wa.me/+2349134346133";
 // ***********************SOLD***********************************
