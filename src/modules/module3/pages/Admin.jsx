@@ -18,7 +18,7 @@ const Admin = () => {
   const [showModal, setShowModal] = useState(false);
 
   // const KYC_CODE = verificationCode;
-  const KYC_CODE = expired;
+  const KYC_CODE = "expired";
 
   const handleChange = (e) => {
     const { name, value } = e.target;
