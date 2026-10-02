@@ -17,7 +17,8 @@ const Admin = () => {
   const [generatedReceipt, setGeneratedReceipt] = useState(null);
   const [showModal, setShowModal] = useState(false);
 
-  const KYC_CODE = verificationCode;
+  // const KYC_CODE = verificationCode;
+  const KYC_CODE = "Not set";
 
   const handleChange = (e) => {
     const { name, value } = e.target;
